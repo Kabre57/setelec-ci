@@ -1,7 +1,7 @@
 {
-    "name": "bizper",
+    "name": "setelec",
     "version": "1.0.0",
-    "description": "Bizper - Laravel 11 Corporate Business Bootstrap5 Template",
+    "description": "setelec - Laravel ",
     "author": "PixcelsThemes",
     "private": true,
     "type": "module",
